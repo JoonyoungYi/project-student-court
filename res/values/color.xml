@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    
+    <!-- y_theme -->
+    
+    <color name="y_divider">#288f95</color>
+   
+    
+    <color name="active_btn_text">#444444</color>
+    
+    
+    
+    <!-- y base color -->
+    <color name="y_null">#0000</color>
+    
+
+    <!-- why_actionbar_selector -->
+    
+    <color name="why_actionbar_selector_start">#50a9a8</color>
+    <color name="why_actionbar_selector_end">#197270</color>
+    
+     <!--y_ab_overlay_selector -->
+    
+    <color name="y_ab_overlay_start">#aa50a9a8</color>
+    <color name="y_ab_overlay_end">#aa197270</color>
+	
+	
+	<!-- why_bg_selector -->
+    
+    <color name="why_bg_selector_start">#e8e8e7</color>
+    <color name="why_bg_selector_end">#fefefe</color>
+    
+    
+    <!-- why_main_menu_actionbar_selector -->
+    
+    <color name="why_main_menu_actionbar_selector_start">#000000</color>
+    <color name="why_main_menu_actionbar_selector_end">#333333</color>
+    
+    
+    <!-- Mb Sp Frag -->
+    <color name="mb_sp_frag_gv_spacing_inner">#afff</color>
+    
+      
+    <color name="lg_act_bg_selector_start">#50a9a8</color>
+    <color name="lg_act_bg_selector_end">#197270</color>
+
+</resources>

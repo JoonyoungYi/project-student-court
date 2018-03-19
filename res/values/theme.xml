@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+   
+
+    <!--
+		Theme Idoo Jinro Version
+		yearnning edit #FFDEBBB7
+    -->
+
+    <style name="Theme.Idoo.Jinro" parent="@style/Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/Widget.Idoo.Jinro.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.Idoo.Jinro.ActionBar</item>
+    </style>
+
+    <style name="Widget.Idoo.Jinro.ActionBar" parent="@style/Widget.Sherlock.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Idoo.Widget.ActionBar.Title</item>
+        <item name="android:titleTextStyle">@style/TextAppearance.Idoo.Widget.ActionBar.Title</item>
+    </style>
+
+    <style name="TextAppearance.Idoo.Widget.ActionBar.Title" parent="@style/TextAppearance.Sherlock.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+
+  
+
+</resources>

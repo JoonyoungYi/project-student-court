@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#333333"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="#0000"
+        android:dividerHeight="0dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6sp"
+        android:text="ⓒ 2013 대전ᆞ충청지역 교육학과 학생 협의회"
+        android:textColor="#888888"
+        android:textSize="12sp"
+        android:gravity="center" />
+
+</LinearLayout>
